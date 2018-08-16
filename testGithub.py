@@ -49,6 +49,7 @@ def printmenu():
     print("this is a menu")
 
 printmenu()
+print("done")
 
 # parte tres
 # pypi.org
